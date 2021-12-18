@@ -632,6 +632,24 @@
       "website": "https://unique.network"
     },
     {
+      "prefix": 2032,
+      "network": "interlay",
+      "displayName": "Interlay",
+      "symbols": ["INTR"],
+      "decimals": [10],
+      "standardAccount": "*25519",
+      "website": "https://interlay.io/"
+    },
+    {
+      "prefix": 2092,
+      "network": "kintsugi",
+      "displayName": "Kintsugi",
+      "symbols": ["KINT"],
+      "decimals": [12],
+      "standardAccount": "*25519",
+      "website": "https://interlay.io/"
+    },
+    {
       "prefix": 1284,
       "network": "moonbeam",
       "displayName": "Moonbeam",
